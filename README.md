@@ -4,7 +4,7 @@
 
 2) Quand un article est supprimé, une redirection automatique doit se faire vers la liste des articles
 
-3) Mettez en place de l'observation sur la liste des articles, afin que celle-ci soit bien mise à jour à chaque ajout ou suppression sur l'API
+3) Mettez en place de l'observation sur la liste des articles, afin que celle-ci soit bien mise à jour à chaque ajout ou suppression de la liste locale
 
 4) Mettez en place la même logique pour le compteur des articles
 
