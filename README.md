@@ -4,9 +4,9 @@
 
 2) Quand un article est supprimé, une redirection automatique doit se faire vers la liste des articles
 
-3) Mettez en place de l'observation sur la liste des articles, afin que celle-ci soit bien mise à jour à chaque ajout ou suppression de la liste locale
+3) Mettez en place un champ de recherche sur la liste des articles. Ce champ doit être observé afin de n'afficher que les articles ayant une longueur de description supérieur ou égale à la valeur passée
 
-4) Mettez en place la même logique pour le compteur des articles
+4) Mettez en place la même logique pour le compteur des articles en fonction des articles réellement affichés
 
 5) Mettez en place une gestion de doublons pour éviter leur affichage dans la liste des articles (id unique, titre unique)
 
